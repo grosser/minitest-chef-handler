@@ -1,0 +1,5 @@
+name "minitest-chef-handler"
+version "0.1.0"
+description "Run tests after cooking"
+maintainer "David Calavera"
+license "MIT"
